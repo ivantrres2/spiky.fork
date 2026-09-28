@@ -1,0 +1,41 @@
+<svg width="728" height="105" viewBox="0 0 728 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_21_35)">
+<path d="M400 157V57H300L400 157Z" fill="#92C4AA" stroke="#92C4AA" stroke-linejoin="bevel"/>
+<path d="M300 57V157H400L300 57Z" fill="#F1F8F4" stroke="#F1F8F4" stroke-linejoin="bevel"/>
+<path d="M400 57L300 -43V57H400Z" fill="#D6E9DE" stroke="#D6E9DE" stroke-linejoin="bevel"/>
+<path d="M400 157H500L400 57V157Z" fill="#84BD9F" stroke="#84BD9F" stroke-linejoin="bevel"/>
+<path d="M200 57V157L300 57H200Z" fill="#C9E1D4" stroke="#C9E1D4" stroke-linejoin="bevel"/>
+<path d="M300 57L200 157H300V57Z" fill="white" stroke="white" stroke-linejoin="bevel"/>
+<path d="M300 -43L200 57H300V-43Z" fill="#A0CCB4" stroke="#A0CCB4" stroke-linejoin="bevel"/>
+<path d="M500 57L400 -43V57H500Z" fill="#F1F8F4" stroke="#F1F8F4" stroke-linejoin="bevel"/>
+<path d="M400 57V-43H300L400 57Z" fill="white" stroke="white" stroke-linejoin="bevel"/>
+<path d="M500 157V57H400L500 157Z" fill="#84BD9F" stroke="#84BD9F" stroke-linejoin="bevel"/>
+<path d="M300 -43H200V57L300 -43Z" fill="#A0CCB4" stroke="#A0CCB4" stroke-linejoin="bevel"/>
+<path d="M500 57V-43H400L500 57Z" fill="#C9E1D4" stroke="#C9E1D4" stroke-linejoin="bevel"/>
+<path d="M600 157V57L500 157H600Z" fill="#76B695" stroke="#76B695" stroke-linejoin="bevel"/>
+<path d="M500 157L600 57H500V157Z" fill="#E4F0E9" stroke="#E4F0E9" stroke-linejoin="bevel"/>
+<path d="M500 57H600L500 -43V57Z" fill="#84BD9F" stroke="#84BD9F" stroke-linejoin="bevel"/>
+<path d="M200 57L100 157H200V57Z" fill="#76B695" stroke="#76B695" stroke-linejoin="bevel"/>
+<path d="M100 57V157L200 57H100Z" fill="#D6E9DE" stroke="#D6E9DE" stroke-linejoin="bevel"/>
+<path d="M200 -43L100 57H200V-43Z" fill="#D6E9DE" stroke="#D6E9DE" stroke-linejoin="bevel"/>
+<path d="M600 57V-43H500L600 57Z" fill="#92C4AA" stroke="#92C4AA" stroke-linejoin="bevel"/>
+<path d="M200 -43H100V57L200 -43Z" fill="white" stroke="white" stroke-linejoin="bevel"/>
+<path d="M600 157H700L600 57V157Z" fill="#C9E1D4" stroke="#C9E1D4" stroke-linejoin="bevel"/>
+<path d="M600 57H700L600 -43V57Z" fill="#76B695" stroke="#76B695" stroke-linejoin="bevel"/>
+<path d="M100 -43L0 57H100V-43Z" fill="#A0CCB4" stroke="#A0CCB4" stroke-linejoin="bevel"/>
+<path d="M100 57H0L100 157V57Z" fill="#76B695" stroke="#76B695" stroke-linejoin="bevel"/>
+<path d="M100 -43H0V57L100 -43Z" fill="#F1F8F4" stroke="#F1F8F4" stroke-linejoin="bevel"/>
+<path d="M0 57V157H100L0 57Z" fill="#ADD3BE" stroke="#ADD3BE" stroke-linejoin="bevel"/>
+<path d="M700 157V57H600L700 157Z" fill="#BBDAC9" stroke="#BBDAC9" stroke-linejoin="bevel"/>
+<path d="M700 57V-43H600L700 57Z" fill="white" stroke="white" stroke-linejoin="bevel"/>
+<path d="M700 157H800L700 57V157Z" fill="#BBDAC9" stroke="#BBDAC9" stroke-linejoin="bevel"/>
+<path d="M700 57H800L700 -43V57Z" fill="#ADD3BE" stroke="#ADD3BE" stroke-linejoin="bevel"/>
+<path d="M800 157V57H700L800 157Z" fill="#84BD9F" stroke="#84BD9F" stroke-linejoin="bevel"/>
+<path d="M800 57V-43H700L800 57Z" fill="#BBDAC9" stroke="#BBDAC9" stroke-linejoin="bevel"/>
+</g>
+<defs>
+<clipPath id="clip0_21_35">
+<rect width="728" height="105" fill="white"/>
+</clipPath>
+</defs>
+</svg>
