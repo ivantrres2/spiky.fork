@@ -11,9 +11,6 @@
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
 
   font: 18px/145% var(--sans);
   letter-spacing: 0.18px;
@@ -51,13 +48,14 @@
 }
 
 body {
+  font-family: Inter, sans-serif;
   margin: 0;
 }
 
 h1,
 h2 {
-  font-family: var(--heading);
-  font-weight: 500;
+  font-family: Instrument Sans, sans-serif;
+  font-weight: 200;
   color: var(--text-h);
 }
 
@@ -85,13 +83,14 @@ p {
 
 code,
 .counter {
-  font-family: var(--mono);
+  font-family: JetBrains Mono, monospace;
   display: inline-flex;
   border-radius: 4px;
   color: var(--text-h);
 }
 
 code {
+  font-family: JetBrains Mono, monospace;
   font-size: 15px;
   line-height: 135%;
   padding: 4px 8px;
@@ -157,7 +156,7 @@ code {
 }
 
 #app {
-  width: 1126px;
+
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -293,4 +292,24 @@ code {
     right: 0;
     border-right-color: var(--border);
   }
+}
+
+.title {
+text-align: left;
+color: #000;
+font-family: Instrument Sans, sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 525;
+line-height: 50%;
+
+}
+
+.subtitle {
+color: #333;
+font-family: Instrument Sans, sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }

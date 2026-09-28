@@ -3,11 +3,17 @@ import { ref } from 'vue'
 import heroImg from '../assets/hero.png'
 import viteLogo from '../assets/vite.svg'
 import vueLogo from '../assets/vue.svg'
+import TopBar from '../components/topBar.vue'
 
 const count = ref(0)
 </script>
 
+
 <template>
+ 
+ <TopBar />
+
+
   <section id="center">
     <div class="hero">
       <img :src="heroImg" class="base" width="170" height="179" alt="" />
