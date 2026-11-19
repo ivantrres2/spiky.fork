@@ -1,7 +1,13 @@
+
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import TopBar from './components/topBar.vue'
+import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <HelloWorld />
+  
+  <main>
+    <RouterView />
+  </main>
+
 </template>
