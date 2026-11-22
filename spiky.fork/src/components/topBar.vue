@@ -5,7 +5,7 @@
 			<img class="cecia" src="../assets/ceciarum-logo.svg" alt="Logo">
 		</a>
 		<div class="title-subtitle-container">
-        <p class="title">CECIA UPRM </p>
+        <p class="title">CECIA - RUM </p>
 		<p class="subtitle"><br>Capítulo Estudiantil del 
 			<br> Colegio de Ingenieros y Agrimensores de Puerto Rico
 			<br>Universidad de Puerto Rico - Mayagüez</p>
@@ -23,7 +23,6 @@
   </RouterLink>
 </nav>
 
-
 		<div class="menu">
 		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="50px" width="50px" fill="#266E49"><path d="M3,18V16H21v2H3Zm0-5V11H21v2H3ZM3,8V6H21V8H3Z"/></svg>
 		</div>
@@ -31,7 +30,6 @@
 		<div class="header-low-poly">
 			<img src="../assets/header-low-poly.svg" alt="Logo">
 		</div>
-
 
 	</header>
 </template>
